@@ -202,6 +202,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDRPJVIE
 
+[Document10]
+DocumentPath=..\..\..\..\..\..\..\Copy of PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IOEPADGF
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ESP32_Projet\Design Rule Check - PCB1.html
 DItemRevisionGUID=
