@@ -8,3 +8,4 @@ une interaction facile avec l’utilisateur.
 La possibilité de boot et reset matériel permet une gestion directe de la carte. Enfin, la
 compatibilité avec les modules MikroBus et Grove garantit une extension facile, ajoutant des
 fonctionnalités supplémentaires pour diverses applications.
+###plus d'informations dans le rapport
